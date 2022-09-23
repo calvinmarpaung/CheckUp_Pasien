@@ -1,7 +1,7 @@
 package com.spring.data.jpa.tutorial;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.SpringApplication;
 
 @SpringBootApplication(scanBasePackages={"com.spring.data.jpa.tutorial"})
 public class SpringDataJpaTutorialApplication {

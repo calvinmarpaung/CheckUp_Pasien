@@ -8,7 +8,7 @@
     <version>2.6.8</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.dailycodebuffer</groupId>
+  <groupId>com.calvin</groupId>
   <artifactId>spring-data-jpa-tutorial</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>spring-data-jpa-tutorial</name>

@@ -8,12 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-data-jpa-tutorial2" />
+        <module name="finaltest-backend-1st" />
+        <module name="test-backend-1st" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="finaltest-backend-1st" options="-parameters" />
       <module name="spring-data-jpa-tutorial2" options="-parameters" />
+      <module name="test-backend-1st" options="-parameters" />
     </option>
   </component>
 </project>
